@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.jbzj.com/do/uploads/litimg/230206/_105SG46.png" width="250" height="200">
+    <img src="./res/" width="250" height="300">
 </p>
 <h1 align="center">TVBox</h1>
 <p align="center">
@@ -23,7 +23,7 @@
 <h3 align="center">内置不断更新中....</h3>
 
 本项目旨在对 JSON,JAR，散落在世界各地的野生 接口 进行收集整理，研究并对其添加，运用了工具 MT管理器、NP管理器
-本文档探讨的对象是开源地址接口，[官方开放平台](https://) 
+本文档探讨的对象是开源地址接口
 
 TVBox 大多数接口为 混淆加密 和 bease64加密，少部分接口为 MD5加密
 
