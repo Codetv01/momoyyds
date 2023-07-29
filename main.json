@@ -136,6 +136,26 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
+            "key": "csp_appys_影探",
+            "name": "❤影探┃免费",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ytcms.lfytyl.com/api.php/app/"
+        },
+        {
+            "key": "XC",
+            "name": "🌠星辰┃免费",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http/api.php/app/"
+        },
+        {
             "key": "csp_kuaikan",
             "name": "👀快看┃App",
             "type": 3,
@@ -587,21 +607,11 @@
             "url": "Sequence"
         },
         {
-            "name": "默认💕",
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-        },
-        {
-            "name": "飞飞",
+            "name": " JSON解析",
             "type": 1,
-            "url": "http://tvbox.aleoe.cc/fyjx.php?url="
-        },
-        {
-            "name": "FY4K",
-            "type": 1,
-            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
+            "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
                 "flag": [
-                    "FY",
                     "qiyi",
                     "qq",
                     "letv",
@@ -611,87 +621,135 @@
                     "bilibili",
                     "wasu",
                     "xigua",
-                    "1905"
+                    "1905",
+                    "优酷",
+                    "芒果",
+                    "腾讯",
+                    "爱奇艺",
+                    "奇艺"
                 ]
             }
         },
         {
-            "name": "解析线路1",
-            "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-        },
-        {
-            "name": "芒果",
-            "type": "1",
-            "url": "http://mi.sxdh.org/mgtv/qq.php?url="
-        },
-        {
-            "name": "解析线路2",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=afimnpqrvBHJKOQS47&mgtv=app&url=",
+            "name": "ziyong",
+            "type": 0,
+            "url": "https://yyrj.shop/?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "企鹅",
-                    "IQiYi",
                     "qiyi",
                     "爱奇艺",
                     "奇艺",
                     "youku",
-                    "YouKu",
                     "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
                     "mgtv",
-                    "MangGuo",
                     "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
                     "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
+                    "哔哩哔哩",
+                    "哔哩"
                 ]
             }
         },
         {
-            "name": "解析线路3",
-            "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url="
+            "name": "777",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
         },
         {
-            "name": "解析线路4",
-            "type": 1,
-            "url": "http://118.112.240.209:808/api/?key=BbsGXy34SmW0njx3M9&url="
+            "name": "全民",
+            "url": "http://api.wpsseo.cn/?v=",
+            "type": 0,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            },
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         },
         {
-            "name": "解析线路5",
+            "name": "pand",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url="
+            "url": "http://pandown.pro/app/kkdy.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "rx",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
         },
         {
-            "name": "解析线路6",
+            "name": "小书",
             "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-        },
-        {
-            "name": "解析线路7",
-            "type": 1,
-            "url": "https://bfq.bulei.cc/player/analysis.php?v=",
+            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -718,519 +776,167 @@
             }
         },
         {
-            "name": "解析线路8",
+            "name": "255",
+            "url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
             "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "LuaSocket 3.0-rc1"
+                }
+            },
+            "header": {
+                "User-Agent": "LuaSocket 3.0-rc1"
+            }
         },
         {
-            "name": "解析线路9",
-            "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "name": "78",
+            "type": 1,
+            "url": "http://api.8kvod.com:5566/api/?type=ys&key=nD30Uc4sOUcyyuNpcP&url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
-                    "企鹅",
-                    "IQiYi",
                     "qiyi",
                     "爱奇艺",
                     "奇艺",
                     "youku",
-                    "YouKu",
                     "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
                     "mgtv",
-                    "MangGuo",
                     "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
                     "bilibili",
-                    "1905",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.12"
+                }
+            }
+        },
+        {
+            "name": "饭团",
+            "type": 0,
+            "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "youku",
+                    "sohu",
+                    "letv",
+                    "imgo",
+                    "mgtv",
+                    "bilibili",
                     "xigua"
                 ]
             }
         },
         {
-            "name": "爱豆",
-            "type": 1,
-            "url": "http://id190.tpddns.cn:81/jsonch/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "365",
+            "name": "88",
             "type": 0,
-            "url": "https://chaxun.truechat365.com/?url=",
+            "url": "http://aabbcc.work:14565/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "腾讯",
                     "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
                     "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
                     "sohu",
+                    "letv",
+                    "imgo",
+                    "mgtv",
                     "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
+                    "xigua"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0 AppleWebKit/605.1.15 Version/13.0.3 Mobile/15E148 Safari/604.1",
+                    "Referer": "http://aabbcc.work:5478/"
+                }
             }
         },
         {
-            "name": "parwix稳定",
+            "name": "爱哭",
             "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "parwix1",
+            "name": "jkk",
             "type": 0,
-            "url": "https://jx.parwix.com:4433/player/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://kk.bcyingshi.ink/player/?url="
         },
         {
-            "name": "parwix2",
+            "name": "稳定",
             "type": 0,
-            "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
-            "name": "8old",
+            "name": "懒懒",
             "type": 0,
-            "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url=",
+            "url": "https://vip.lianfaka.com/vip/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "腾讯",
                     "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
                     "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
                     "sohu",
+                    "letv",
+                    "imgo",
+                    "mgtv",
                     "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
+                    "xigua"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0 AppleWebKit/605.1.15 Version/13.0.3 Mobile/15E148 Safari/604.1",
+                    "Referer": "https://www.dy6g.com/"
+                }
             }
         },
         {
-            "name": "OK解析",
+            "name": "7",
             "type": 0,
-            "url": "https://okjx.cc/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://jx.yparse.com/index.php?url="
         },
         {
-            "name": "m3u8",
+            "name": "json",
             "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "醉仙",
-            "type": 0,
-            "url": "https://jx.zui.cm/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "1907",
-            "type": 1,
-            "url": "https://z1.m1907.cn/?jx=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "思古",
-            "type": 1,
-            "url": "https://jsap.attakids.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "爱豆",
-            "type": 1,
-            "url": "https://jx.aidouer.net/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
             "name": "虾米",
-            "type": 1,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "夜幕",
-            "type": 1,
-            "url": "https://www.yemu.xyz/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "人人迷",
-            "type": 1,
-            "url": "https://jx.blbo.cc:4433/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "冰豆",
-            "type": 1,
-            "url": "https://api.qianqi.net/vip/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "iqiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
-        },
-        {
-            "name": "我再找来",
-            "type": 1,
-            "url": "https://b.umkan.cc/API.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
+            "name": "虾米dm",
+            "type": 0,
+            "url": "https://dm.xmflv.com:4433/?url="
         }
     ],
     "rules": [
