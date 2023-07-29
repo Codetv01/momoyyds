@@ -27,7 +27,7 @@
 
 TVBox 大多数接口为 混淆加密 和 bease64加密，少部分接口为 MD5加密
 
-::: warning ⚠️声明
+### warning ⚠️声明
 
 1. 禁止一切商业使用
 2. 本项目仅用于学习和测试！请勿滥用
@@ -42,6 +42,20 @@ TVBox 大多数接口为 混淆加密 和 bease64加密，少部分接口为 MD5
 2. 接口配置源无固定来源
 
 
-:::📮下载方式
+### 下载方式及接口地址
+接口地址
+```
+短接口：
+http://gg.gg/07290
 
-1.国内下载链接
+长接口带加速：
+https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Codetv01/code/main/main.json
+```
+下载方式
+```
+Github：
+https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json
+
+蓝奏云：
+
+```
