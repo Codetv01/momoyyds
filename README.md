@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./res/" width="250" height="300">
+    <img src="./res/icon.png" width="150" height="150">
 </p>
 <h1 align="center">TVBox</h1>
 <p align="center">
