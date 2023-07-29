@@ -3,19 +3,19 @@
 </p>
 <h1 align="center">TVBox</h1>
 <p align="center">
-    <a href="https://github.com/SocialSisterYi/bilibili-API-collect/issues" style="text-decoration:none">
+    <a href="https://github.com/codetv01/code" style="text-decoration:none">
         <img src="https://img.shields.io/github/issues/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub issues"/>
     </a>
-    <a href="https://github.com/SocialSisterYi/bilibili-API-collect/stargazers" style="text-decoration:none" >
+    <a href="https://github.com/codetv01/code" style="text-decoration:none" >
         <img src="https://img.shields.io/github/stars/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub stars"/>
     </a>
-    <a href="https://github.com/SocialSisterYi/bilibili-API-collect/network" style="text-decoration:none" >
+    <a href="https://github.com/codetv01/code" style="text-decoration:none" >
         <img src="https://img.shields.io/github/forks/SocialSisterYi/bilibili-API-collect.svg" alt="GitHub forks"/>
     </a>
-    <a href="https://github.com/SocialSisterYi/bilibili-API-collect/actions">
+    <a href="https://github.com/codetv01/code">
         <img src="https://img.shields.io/github/actions/workflow/status/SocialSisterYi/bilibili-API-collect/vuepress-deploy.yml">
     </a>
-    <a href="https://github.com/SocialSisterYi/bilibili-API-collect/blob/master/LICENSE" style="text-decoration:none" >
+    <a href="https://github.com/codetv01/code" style="text-decoration:none" >
         <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="GitHub license"/>
     </a>
 </p>
