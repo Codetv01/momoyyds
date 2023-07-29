@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="GitHub license"/>
     </a>
 </p>
-<h3 align="center">TVBox接口写出中.../h3>
+<h3 align="center">TVBox接口写出中...</h3>
 <h3 align="center">内置不断更新中....</h3>
 
 本项目旨在对 JSON,JAR，散落在世界各地的野生 接口 进行收集整理，研究并对其添加，运用了工具 MT管理器、NP管理器
