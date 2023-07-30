@@ -53,9 +53,10 @@ https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Codetv01/code/main
 ```
 下载方式
 ```
-Github：
-https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json
+Github带加速：
+https://gh.api.99988866.xyz/https://github.com/Codetv01/code/releases/download/Android/TVBox_20230725-2313.apk
 
 蓝奏云：
-
+https://ilovexin.lanzouj.com/ijzws13u0l9a
+密码:1234
 ```
