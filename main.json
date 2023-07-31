@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/so/gao/raw/branch/master/jar/fan.txt",
+    "spider": "./main.jar",
     "wallpaper": "https://api.horosama.com/random.php",
     "sites": [
         {
