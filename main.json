@@ -1,5 +1,5 @@
 {
-    "spider": "http://shuyuan.miaogongzi.net/shuyuan/1690920937.txt",
+    "spider": "https://agit.ai/so/gao/raw/branch/master/jar/fan.txt",
     "wallpaper": "https://api.horosama.com/random.php",
     "sites": [
         {
@@ -25,7 +25,7 @@
         },
         {
             "key": "csp_如意4K",
-            "name": "🚀如意4K┃免费",
+            "name": "🚀如意4K┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -41,17 +41,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "http://shuyuan.miaogongzi.net/shuyuan/1690939267.json"
-        },
-        {
-            "key": "csp_appys_影探",
-            "name": "❤影探┃免费",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ytcms.lfytyl.com/api.php/app/"
+            "ext": "http://饭太硬.top/x/json/bilibili.json"
         },
         {
             "key": "虎牙直播js",
@@ -85,7 +75,7 @@
         },
         {
             "key": "陌陌",
-            "name": "🍄陌陌┃直连",
+            "name": "🐞陌陌┃直连",
             "type": 3,
             "api": "csp_MmYs",
             "searchable": 1,
@@ -94,7 +84,7 @@
         },
         {
             "key": "迪迪",
-            "name": "😎迪迪┃App",
+            "name": "🐞迪迪┃App",
             "api": "csp_AppYsV2",
             "type": 3,
             "searchable": 1,
@@ -104,7 +94,7 @@
         },
         {
             "key": "csp_77",
-            "name": "👒七七┃App",
+            "name": "🐞七七┃爬虫",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -113,7 +103,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "⏮️低端┃直连",
+            "name": "🐞低端┃直连",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -122,7 +112,7 @@
         },
         {
             "key": "csp_Lib",
-            "name": "🌟利播┃直连",
+            "name": "🐞利播┃直连",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -132,7 +122,7 @@
         },
         {
             "key": "贱贱",
-            "name": "🐭贱贱┃JS",
+            "name": "🐞贱贱┃JS",
             "type": 3,
             "playerType": "1",
             "api": "http://xhww.fun:63/js/drpy1.min.js",
@@ -140,14 +130,14 @@
         },
         {
             "key": "drpy_js_萌蛋蛋",
-            "name": "❤萌蛋蛋┃JS",
+            "name": "🐞萌蛋蛋┃JS",
             "type": 3,
             "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
             "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/萌蛋蛋.js"
         },
         {
             "key": "光棍影视",
-            "name": "🚶光棍影视┃XBPQ",
+            "name": "🐞光棍影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -157,14 +147,14 @@
         },
         {
             "key": "素白",
-            "name": "🦢素白┃XBPQ",
+            "name": "🐞素白┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "http://我不是.肥猫.love:63/json/素白.json"
         },
         {
             "key": "csp_YQKAPP",
-            "name": "🎉一起┃App",
+            "name": "🐞一起┃爬虫",
             "type": 3,
             "api": "csp_YQKAPP",
             "playerType": 2,
@@ -175,7 +165,7 @@
         },
         {
             "key": "csp_kuaikan",
-            "name": "👀快看┃App",
+            "name": "🐞快看┃爬虫",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -184,7 +174,7 @@
         },
         {
             "key": "csp_AppMr",
-            "name": "👻明明┃App",
+            "name": "🐞明明┃爬虫",
             "type": 3,
             "api": "csp_AppMr",
             "searchable": 1,
@@ -193,7 +183,7 @@
         },
         {
             "key": "csp_fantuan",
-            "name": "🍙饭团┃直连",
+            "name": "🐞饭团┃直连",
             "type": 3,
             "api": "csp_Fantuan",
             "searchable": 1,
@@ -203,7 +193,7 @@
         },
         {
             "key": "北川影视",
-            "name": "🙄北川影视┃XBPQ",
+            "name": "🐞北川影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -213,7 +203,7 @@
         },
         {
             "key": "美剧天堂",
-            "name": "🤩美剧天堂┃XBPQ",
+            "name": "🐞美剧天堂┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -222,8 +212,18 @@
             "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/XBPQ/美剧天堂.json"
         },
         {
+            "key": "csp_appys_影探",
+            "name": "🐞影探┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ytcms.lfytyl.com/api.php/app/"
+        },
+        {
             "key": "人人美剧",
-            "name": "🤩人人美剧┃XBPQ",
+            "name": "🐞人人美剧┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -233,7 +233,7 @@
         },
         {
             "key": "八戒影院",
-            "name": "🤨八戒影院┃XBPQ",
+            "name": "🐞八戒影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -243,7 +243,7 @@
         },
         {
             "key": "猫影视",
-            "name": "😆猫影视┃XBPQ",
+            "name": "🐞猫影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -253,7 +253,7 @@
         },
         {
             "key": "胖虎影视",
-            "name": "😍胖虎影视┃XBPQ",
+            "name": "🐞胖虎影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -263,7 +263,7 @@
         },
         {
             "key": "乌龟影院",
-            "name": "🙄乌龟影院┃XBPQ",
+            "name": "🐞乌龟影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -273,7 +273,7 @@
         },
         {
             "key": "熊猫影视",
-            "name": "🐼熊猫影视┃XBPQ",
+            "name": "🐞熊猫影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -283,7 +283,7 @@
         },
         {
             "key": "大米星球",
-            "name": " ☺大米星球┃XBPQ",
+            "name": " 🐞大米星球┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -293,7 +293,7 @@
         },
         {
             "key": "91影视网",
-            "name": "🍳91影视网┃XBPQ",
+            "name": "🐞91影视网┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -303,7 +303,7 @@
         },
         {
             "key": "假低端",
-            "name": "😔假低端┃XBPQ",
+            "name": "🐞假低端┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -313,7 +313,7 @@
         },
         {
             "key": "TVB云播",
-            "name": "☺TVB云播┃XBPQ",
+            "name": "🐞TVB云播┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -323,7 +323,7 @@
         },
         {
             "key": "drpy_js_尘落影视",
-            "name": "🍊尘落┃JS",
+            "name": "🐞尘落┃JS",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/尘落影视.js",
@@ -331,7 +331,7 @@
         },
         {
             "key": "ppxdm动漫",
-            "name": "🧛‍♀️ppxdm|动漫┃XBPQ",
+            "name": "🐞ppxdm|动漫┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -341,7 +341,7 @@
         },
         {
             "key": "米爱影视",
-            "name": "🤩米爱影视┃XBPQ",
+            "name": "🐞米爱影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -351,7 +351,7 @@
         },
         {
             "key": "NIKETV",
-            "name": "😗NIKETV┃XBPQ",
+            "name": "🐞NIKETV┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -361,7 +361,7 @@
         },
         {
             "key": "奈落影院",
-            "name": "🤨奈落影院┃XBPQ",
+            "name": "🐞奈落影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -371,7 +371,7 @@
         },
         {
             "key": "首播影视",
-            "name": "😗首播影视┃XBPQ",
+            "name": "🐞首播影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -381,7 +381,7 @@
         },
         {
             "key": "app影院",
-            "name": "😻app影院┃XBPQ",
+            "name": "🐞app影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -391,7 +391,7 @@
         },
         {
             "key": "星空影视",
-            "name": "😗星空影视┃XBPQ",
+            "name": "🐞星空影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -401,7 +401,7 @@
         },
         {
             "key": "电影蜜蜂",
-            "name": "🐝电影蜜蜂┃XBPQ",
+            "name": "🐞电影蜜蜂┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -411,7 +411,7 @@
         },
         {
             "key": "漫搜搜影视",
-            "name": "🔎漫搜搜影视┃XBPQ",
+            "name": "🐞漫搜搜影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -421,7 +421,7 @@
         },
         {
             "key": "蘑菇影视",
-            "name": "🍄蘑菇影视┃XBPQ",
+            "name": "🐞蘑菇影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -431,7 +431,7 @@
         },
         {
             "key": "哔哩兔影视",
-            "name": "🐇哔哩兔影视┃XBPQ",
+            "name": "🐞哔哩兔影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -441,7 +441,7 @@
         },
         {
             "key": "139影视",
-            "name": "💛139影视┃XBPQ",
+            "name": "🐞139影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -451,7 +451,7 @@
         },
         {
             "key": "夜光影视",
-            "name": "🌙夜光影视┃XBPQ",
+            "name": "🐞夜光影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -461,7 +461,7 @@
         },
         {
             "key": "drpy_js_达达龟",
-            "name": "🍀达达龟┃JS",
+            "name": "🐞达达龟┃JS",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/达达龟.js",
@@ -469,7 +469,7 @@
         },
         {
             "key": "小狗影院",
-            "name": "🙄小狗影院┃XBPQ",
+            "name": "🐞小狗影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -479,7 +479,7 @@
         },
         {
             "key": "八戒影院",
-            "name": "🙄八戒影院┃XBPQ",
+            "name": "🐞八戒影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -489,7 +489,7 @@
         },
         {
             "key": "批哩㕷哩",
-            "name": "😗批哩㕷哩┃XBPQ",
+            "name": "🐞批哩㕷哩┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -499,7 +499,7 @@
         },
         {
             "key": "起飞影视",
-            "name": "👐起飞影视┃XBPQ",
+            "name": "🐞起飞影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -509,7 +509,7 @@
         },
         {
             "key": "243影视网",
-            "name": "😀243影视网┃XBPQ",
+            "name": "🐞243影视网┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -519,7 +519,7 @@
         },
         {
             "key": "无极影院",
-            "name": "😁无极影院┃XBPQ",
+            "name": "🐞无极影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -529,7 +529,7 @@
         },
         {
             "key": "drpy_js_饭团电影",
-            "name": "🍛饭团电影┃JS",
+            "name": "🐞饭团电影┃JS",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/饭团影视.js",
@@ -537,7 +537,7 @@
         },
         {
             "key": "金曼TV",
-            "name": "🤑金曼TV┃XBPQ",
+            "name": "🐞金曼TV┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -547,7 +547,7 @@
         },
         {
             "key": "天天影院",
-            "name": "🤩天天影院┃XBPQ",
+            "name": "🐞天天影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -557,7 +557,7 @@
         },
         {
             "key": "dr_看了么",
-            "name": "🌴看了么┃JS",
+            "name": "🐞看了么┃JS",
             "type": 3,
             "api": "https://gitee.com/xisohi/dr_py/raw/main/libs/drpy2.min.js",
             "searchable": 2,
@@ -568,7 +568,7 @@
         },
         {
             "key": "Vidhub",
-            "name": "😘Vidhub┃XBPQ",
+            "name": "🐞Vidhub┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -578,7 +578,7 @@
         },
         {
             "key": "莱米",
-            "name": "🍓莱米┃XBPQ",
+            "name": "🐞莱米┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -611,7 +611,7 @@
         },
         {
             "key": "一龙",
-            "name": "🐻一龙┃XBPQ",
+            "name": "🐞一龙┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -651,7 +651,7 @@
         },
         {
             "key": "voflix",
-            "name": "😘voflix┃XBPQ",
+            "name": "🐞voflix┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -661,7 +661,7 @@
         },
         {
             "key": "csp_Bttoo",
-            "name": "✌比特┃直连",
+            "name": "🐞比特┃直连",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
@@ -670,7 +670,7 @@
         },
         {
             "key": "drpy_农民",
-            "name": "🌾农民┃JS",
+            "name": "🐞农民┃JS",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -678,8 +678,35 @@
             "ext": "https://gitee.com/zhen169/ikdd/raw/master/js/农民影视.js"
         },
         {
+            "key": "csp_Ying",
+            "name": "🐞樱花┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ysj",
+            "name": "🐞异界┃动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "365",
+            "name": "🐞365┃JS",
+            "type": 3,
+            "changeable": 1,
+            "playerType": 1,
+            "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy2.min.js",
+            "ext": "http://shuyuan.miaogongzi.net/shuyuan/1689221387.json"
+        },
+        {
             "key": "csp_Dy1010",
-            "name": "❤️双十┃直连",
+            "name": "🐞双十┃直连",
             "type": 3,
             "api": "csp_Dy1010",
             "searchable": 1,
@@ -688,7 +715,7 @@
         },
         {
             "key": "csp_Vofl",
-            "name": "🎈Vofl┃直连",
+            "name": "🐞Vofl┃直连",
             "type": 3,
             "api": "csp_Voflix",
             "searchable": 1,
@@ -697,7 +724,7 @@
         },
         {
             "key": "csp_zxzj",
-            "name": "📗在线┃直连",
+            "name": "🐞在线┃直连",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
@@ -707,7 +734,7 @@
         },
         {
             "key": "csp_555",
-            "name": "5️⃣️五五┃直连",
+            "name": "🐞5️五五┃直连",
             "type": 3,
             "api": "csp_Ys555",
             "searchable": 1,
@@ -717,7 +744,7 @@
         },
         {
             "key": "csp_SP33",
-            "name": "📺三三┃解析",
+            "name": "🐞三三┃解析",
             "type": 3,
             "api": "csp_SP33",
             "searchable": 1,
@@ -727,7 +754,7 @@
         },
         {
             "key": "zycj_天天",
-            "name": "📅天天┃免费",
+            "name": "🐞天天┃APP",
             "type": 1,
             "searchable": 1,
             "changeable": 1,
@@ -743,7 +770,7 @@
         },
         {
             "key": "csp_Ysgc",
-            "name": "🎥影视工厂┃解析",
+            "name": "🐞影视工厂┃解析",
             "type": 3,
             "api": "csp_Ysgc",
             "searchable": 1,
@@ -754,7 +781,7 @@
         },
         {
             "key": "csp_AppMr",
-            "name": "👻明明影视",
+            "name": "🐞明明影视",
             "type": 3,
             "api": "csp_AppMr",
             "searchable": 1,
@@ -764,7 +791,7 @@
         },
         {
             "key": "臭蛋蛋",
-            "name": "🌵臭蛋蛋┃XBPQ",
+            "name": "🐞臭蛋蛋┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -774,7 +801,7 @@
         },
         {
             "key": "狐狸",
-            "name": "🦊狐狸┃免费",
+            "name": "🐞狐狸┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -784,7 +811,7 @@
         },
         {
             "key": "爱迪",
-            "name": "🍟爱迪┃免费",
+            "name": "🐞爱迪┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -794,7 +821,7 @@
         },
         {
             "key": "鸭鸭",
-            "name": "🦆鸭鸭┃免费",
+            "name": "🐞鸭鸭┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -804,7 +831,7 @@
         },
         {
             "key": "迷你库",
-            "name": "Ⓜ️迷你库┃免费",
+            "name": "🐞迷你库┃APP",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -814,7 +841,7 @@
         },
         {
             "key": "csp_Ying",
-            "name": "🌸樱花┃爬虫",
+            "name": "🐞樱花┃爬虫",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -858,17 +885,8 @@
             "ext": "https://agit.ai/qi169/kankan/raw/branch/master/U酷.js"
         },
         {
-            "key": "365",
-            "name": "🌎365┃JS",
-            "type": 3,
-            "changeable": 1,
-            "playerType": 1,
-            "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy2.min.js",
-            "ext": "http://shuyuan.miaogongzi.net/shuyuan/1689221387.json"
-        },
-        {
-            "key": "cjzy_猫咪",
-            "name": "😺猫咪┃免费",
+            "key": "csp_xml_猫咪",
+            "name": "🐝猫咪┃免费",
             "type": 1,
             "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
             "playUrl": "",
@@ -893,24 +911,6 @@
                 "惊悚片",
                 "冒险片"
             ]
-        },
-        {
-            "key": "csp_Ying",
-            "name": "💮樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ysj",
-            "name": "🎀异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "csp_xml_天堂资源",
