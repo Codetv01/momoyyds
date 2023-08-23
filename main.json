@@ -3,14 +3,11 @@
     "wallpaper": "https://api.horosama.com/random.php",
     "sites": [
         {
-            "key": "JS豆瓣",
+            "key": "drpy_js_豆瓣",
             "name": "🌏豆瓣┃JS",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
         {
             "key": "北极狐",
@@ -44,24 +41,25 @@
             "ext": "http://shuyuan.miaogongzi.net/shuyuan/1690939267.json"
         },
         {
-            "key": "虎牙直播js",
-            "name": "🐯虎牙┃直播",
+            "key": "drpy_js_哔哩直播",
+            "name": "🅱哔哩┃直播",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
         },
         {
-            "key": "csp_XYQBiu_斗鱼",
-            "name": "🐟斗鱼┃直播",
+            "key": "drpy_js_斗鱼直播",
+            "name": "🐬斗鱼┃直播",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+        },
+        {
+            "key": "drpy_js_虎牙直播",
+            "name": "🐱虎牙┃直播",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
         },
         {
             "key": "csp_XBPQ_聚短视频",
@@ -109,6 +107,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "drpy_js_新片场",
+            "name": "🐞新片场┃JS",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新片场.js"
         },
         {
             "key": "csp_Lib",
@@ -1110,31 +1115,9 @@
             "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=3011143&key=cdejlrwyCDFHJLUWY1&url="
         },
         {
-            "name": "OK解析",
+            "name": "战狼",
             "type": 0,
-            "url": "http://okjx.cc/?url=",
-            "parse": "1",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ]
-            }
+            "url": "https://jx.zhanlangbu.com/?url="
         },
         {
             "name": "777",
