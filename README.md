@@ -46,7 +46,7 @@ TVBox 大多数接口为 混淆加密 和 bease64加密，少部分接口为 MD5
 接口地址
 ```
 短接口：
-http://gg.gg/07290
+http://gg.gg/0824v
 
 长接口带加速：
 https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Codetv01/code/main/main.json
