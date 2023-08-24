@@ -31,14 +31,11 @@
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
         {
-            "key": "csp_Bili",
-            "name": "🅱哔哔┃合集",
+            "key": "drpy_js_我的哔哩",
+            "name": "🅱B站┃合集",
             "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "http://shuyuan.miaogongzi.net/shuyuan/1690939267.json"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"
         },
         {
             "key": "drpy_js_哔哩直播",
