@@ -21,7 +21,9 @@
 </p>
 <h3 align="center">TVBox接口写出中...</h3>
 <h3 align="center">内置不断更新中....</h3>
-主站：<a href="https://jihulab.com/tvbox9164438/json/" style="text-decoration:none" >https://jihulab.com/tvbox9164438/json/   </a>
+主站：<a href="https://jihulab.com/tvbox9164438/json/" style="text-decoration:none" >https://jihulab.com/tvbox9164438/json/
+</a>
+
 本项目旨在对 JSON,JAR，散落在世界各地的野生 接口 进行收集整理，研究并对其添加，运用了工具 MT管理器、NP管理器
 本文档探讨的对象是开源地址接口
 
